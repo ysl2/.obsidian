@@ -1,4 +1,7 @@
 [
   "obsidian-relative-line-numbers",
-  "obsidian-trim-whitespace"
+  "obsidian-trim-whitespace",
+  "dbfolder",
+  "dataview",
+  "terminal"
 ]
